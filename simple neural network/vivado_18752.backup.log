@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Wed Nov 08 09:38:38 2017
+# Process ID: 18752
+# Current directory: C:/Users/53430/Desktop/lab3b/project_lab3c
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12064 C:\Users\53430\Desktop\lab3b\project_lab3c\project_lab3c.xpr
+# Log file: C:/Users/53430/Desktop/lab3b/project_lab3c/vivado.log
+# Journal file: C:/Users/53430/Desktop/lab3b/project_lab3c\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/53430/Desktop/lab3b/project_lab3c/project_lab3c.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/EMBEDDEDPROJECT/MyWork/ip_repo/lab3c_1.0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/xilinx/Vivado/2016.3/data/ip'.
+open_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:06 . Memory (MB): peak = 850.340 ; gain = 153.762
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Nov 08 09:39:11 2017...
